@@ -29,3 +29,7 @@ make clean
 ## 📜 License
 
 This project is licensed under the MIT License
+
+https://youtu.be/s3rxuBkJ2Cc
+
+[![Watch the video](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtu.be/s3rxuBkJ2Cc)
