@@ -2,7 +2,7 @@
 #include<string.h>
 #include<stdio.h>
 #include <pthread.h>
-
+#define SIZE 10
 
 typedef struct {
     int start_index;
@@ -10,7 +10,6 @@ typedef struct {
 } ListData;
 
 int numbers[] = {7, 12, 19, 3, 18, 4, 2, 6, 15, 8};
-#define SIZE sizeof(numbers)/sizeof(numbers[0])
 int result[SIZE];
 
 
