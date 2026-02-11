@@ -1,0 +1,6 @@
+Instructions for Programming Assignmeng 1
+1. Login to FIU Ocelot or Open Linux Terminal
+2. Add necessary files (main.c, makefile, etc.) and the makefile to the directory
+3. type in make (note to self: it runs the Makefile)
+4. Start running main.c by typing in ./main
+5. Program will begin running and printing results to console
