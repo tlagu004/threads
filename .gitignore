@@ -1,0 +1,21 @@
+# --- Compiled Binaries ---
+main
+*.out
+*.exe
+
+# --- Objects and Intermediate Files ---
+*.o
+*.obj
+
+# --- Debugging ---
+*.dSYM/
+gmon.out
+
+# --- Environment & IDE ---
+.idx/
+.vscode/
+.history/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
