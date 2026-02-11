@@ -1,7 +1,5 @@
-# The default rule: compiles main.c into the 'main' executable
 final:
-	gcc main.c -o main
+	gcc main.c -o main -lpthread
 
-# Deletes the compiled executable
 clean:
 	rm -f main
